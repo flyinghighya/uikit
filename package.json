@@ -1,0 +1,19 @@
+{
+  "name": "uikit",
+  "version": "1.0.0",
+  "description": "react component collection",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flyinghighya/uikit.git"
+  },
+  "author": "flying highya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flyinghighya/uikit/issues"
+  },
+  "homepage": "https://github.com/flyinghighya/uikit#readme"
+}
